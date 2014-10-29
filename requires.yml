@@ -1,6 +1,6 @@
 # A list of javascript files required for the project, in dependency order
 javascripts:
   files:
-    - lib/is_between.js
+    - lib/isBetween.js
   specs:
-    - spec/is_between.spec.js
+    - spec/isBetween.spec.js
