@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="2" errors="0" failures="0" time="0.003" timestamp="2015-10-09T14:40:06">
+		<testcase classname="isBetween" name="#isBetween should return true if the number is between the two numbers" time="0.001">
+		</testcase>
+		<testcase classname="isBetween" name="#isBetween should return false if the number is not between the two numbers" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
